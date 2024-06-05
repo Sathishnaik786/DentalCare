@@ -3298,7 +3298,7 @@ input[type="button"].btn-block {
 
 .navbar-text {
   display: inline-block;
-  padding-top: 0.5rem;
+  padding-top: 0.5srem;
   padding-bottom: 0.5rem; }
 
 .navbar-collapse {
@@ -9329,3 +9329,5 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+
+    
